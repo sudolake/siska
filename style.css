@@ -858,14 +858,12 @@ a{
         width:14rem;
         margin-top:4rem;
         position: relative;
-        left:15rem
     }
 
     .main-text-wrap{
         font-size:3.7rem;
         margin-bottom:11rem;
         position: relative;
-        left:2rem
     }
 
     .main-text-wrap span{
@@ -876,7 +874,6 @@ a{
         font-size:1.6rem;
         margin-bottom: 12rem;
         position: relative;
-        left:-4rem;
     }
     .about-wrap{
         display: none;
@@ -890,7 +887,6 @@ a{
             font-size: 1rem;
             margin-bottom:12rem;
             position: relative;
-            left:3.5rem
     }
     .about-wrap-s p{
         margin: 0 auto 0 auto;
@@ -983,7 +979,6 @@ a{
         font-size: 1.4rem;
         margin-bottom:15rem;
         position: relative;
-        left:13rem;
     }
 
 
